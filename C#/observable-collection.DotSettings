@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Shortcut/@EntryValue">obscol</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Description/@EntryValue">Bindable Observable Collection</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Text/@EntryValue">private ObservableCollection&lt;$type$&gt; _$private$;&#xD;
+public ObservableCollection&lt;$type$&gt; $public$&#xD;
+{&#xD;
+    get { return _$private$; }&#xD;
+    set { SetProperty(ref _$private$, value); }&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Field/=type/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Field/=type/Expression/@EntryValue">fixedTypeName("")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Field/=type/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Field/=private/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Field/=private/Expression/@EntryValue">suggestVariableName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Field/=private/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Field/=public/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Field/=public/Expression/@EntryValue">suggestVariableName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05B9938762743E4DAE273C9FAC6B5DC7/Field/=public/Order/@EntryValue">2</s:Int64></wpf:ResourceDictionary>
